@@ -66,6 +66,11 @@ Bookmark. Halaman Daftar Buku dan Detail Buku dibuka menggunakan
 | Status tersedia | `#26855D` | Label “Tersedia” |
 | Status dipinjam | `#C25E55` | Label “Dipinjam” |
 
+## Desain Antarmuka
+
+Desain UI EduBook dibuat di Figma:
+[Lihat desain EduBook](https://www.figma.com/design/m4z8zdeeVQYYVutLwYFG67/Edu-Book-UI-Design?node-id=0-1&t=XrxlrO1MozK09pnP-1).
+
 Data dummy saat ini ditulis di
 [`lib/data/books_data.dart`](lib/data/books_data.dart). Model buku berada di
 [`lib/models/book.dart`](lib/models/book.dart), sedangkan pengelolaan koleksi,
