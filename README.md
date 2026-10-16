@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # EduBook
 
 EduBook adalah aplikasi katalog buku berbasis Flutter. Aplikasi ini membantu
@@ -136,3 +137,7 @@ halaman Bookmark.
   tersedia.
 - Tahap pengembangan selanjutnya dapat mengganti sumber data lokal dengan
   layanan API tanpa mengubah tujuan penggunaan model buku.
+=======
+# edu_book
+Aplikasi ini dibuat sebagai latihan perancangan antarmuka mobile menggunakan Flutter. EduBook menerapkan widget dan layout Flutter, navigasi antarhalaman, serta pengolahan data dummy yang disiapkan agar nantinya dapat diganti dengan sumber data API.
+>>>>>>> f8de478a692c4674c4244f25d259de140f1677ab
